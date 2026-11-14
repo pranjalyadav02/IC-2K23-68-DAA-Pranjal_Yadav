@@ -13,7 +13,8 @@ This repository contains the code and short notes for the Design and Analysis of
 ### Day 2
 - `task_1` — Sorting algorithms and Binary Search
 - `task-2` — Sorting performance comparison and graphs
-- `task-3` — Search engine simulation and student record manager
+- `task-3` — Keyword search
+- `task-4` — Student record manager
 
 ### Day 3
 - `task-1` — 1D array operations
