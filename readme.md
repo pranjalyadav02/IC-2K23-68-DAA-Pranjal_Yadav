@@ -16,17 +16,17 @@ This repository contains the code and short notes for the Design and Analysis of
 - `task-3` — Keyword search
 - `task-4` — Student record manager
 
-### Day 3
+### Lab 3
 - `task-1` — 1D array operations
 - `task-2` — 2D array operations
 - `task-3` — Sparse matrix representation and addition
 - `task-4` — Matrix calculator
 
-### Day 4
+### Lab 4
 - `task-1` — 3Sum
 - `task-2` — First occurrence of a string
 - `task-3` — Add spaces to a string
 - `task-4` — Boats to Save People
 - `task-5` — Trapping Rain Water
 
-Each task folder has one Python solution file and a README with the basic idea and complexity. Day 4 solutions use the LeetCode class format.
+Each task folder has one Python solution file and a README with the basic idea and complexity. Lab 4 solutions use the LeetCode class format.
