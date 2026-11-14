@@ -6,11 +6,11 @@ This repository contains the code and short notes for the Design and Analysis of
 
 ## Folder guide
 
-### Day 1
+### Lab 1
 - `task1` — Find the maximum value and sort using Merge Sort
 - `task_2` — Stack and queue order
 
-### Day 2
+### Lab 2
 - `task_1` — Sorting algorithms and Binary Search
 - `task-2` — Sorting performance comparison and graphs
 - `task-3` — Keyword search
