@@ -1,26 +1,31 @@
-DAA Lab Assignments - Pranjal Yadav (IC-2K23-68)
+# DAA Lab Assignments
 
-Repository Structure:
+**Pranjal Yadav — IC-2K23-68**
 
-Day_1:
-  - task1: Comparison and Merge Sort
-  - task_2: Stack and Queue Execution Order Simulation
+This repository contains the code and short notes for the Design and Analysis of Algorithms lab tasks.
 
-Day_2:
-  - task_1: Classic Sorting Algorithms and Binary Search
-  - task-2: Sorting Performance Benchmarking and Graph Plotting
-  - task-3: Search Engine Simulation and Student Record Management
+## Folder guide
 
-Day_3:
-  - task-1: 1D Array Operations
-  - task-2: 2D Array Operations
-  - task-3: Sparse Matrix Triplet Representation and Addition
-  - task-4: Matrix Operations (Addition, Multiplication, Transpose, Determinant)
+### Day 1
+- `task1` — Find the maximum value and sort using Merge Sort
+- `task_2` — Stack and queue order
 
-Day_4:
-  - task-1: 3Sum
-  - task-2: Find the Index of the First Occurrence in a String
-  - task-3: Adding Spaces to a String
-  - task-4: Boats to Save People
-  - task-5: Trapping Rain Water
+### Day 2
+- `task_1` — Sorting algorithms and Binary Search
+- `task-2` — Sorting performance comparison and graphs
+- `task-3` — Search engine simulation and student record manager
 
+### Day 3
+- `task-1` — 1D array operations
+- `task-2` — 2D array operations
+- `task-3` — Sparse matrix representation and addition
+- `task-4` — Matrix calculator
+
+### Day 4
+- `task-1` — 3Sum
+- `task-2` — First occurrence of a string
+- `task-3` — Add spaces to a string
+- `task-4` — Boats to Save People
+- `task-5` — Trapping Rain Water
+
+Each task folder has one Python solution file and a README with the basic idea and complexity. Day 4 solutions use the LeetCode class format.
